@@ -2,3 +2,5 @@ Added a file bug fix which will fix bugs
 
 Fixed a bug in master branch
 Fixed our first bug in bug-fix branch
+
+Fixed second bug from master branch
