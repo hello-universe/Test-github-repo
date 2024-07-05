@@ -1,1 +1,3 @@
 Added a file bug fix which will fix bugs
+
+Fixed a bug in master branch
