@@ -4,3 +4,5 @@ Fixed a bug in master branch
 Fixed our first bug in bug-fix branch
 
 Fixed second bug from master branch
+
+Fixed a bug in dark mode
