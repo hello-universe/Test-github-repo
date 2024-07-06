@@ -6,3 +6,5 @@ Fixed our first bug in bug-fix branch
 Fixed second bug from master branch
 
 Fixed a bug in dark mode
+
+Fixed another bug in dark mode
